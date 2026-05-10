@@ -1,7 +1,7 @@
 <!-- Typing Animation Header -->
 <p align="center">
   <a href="https://github.com/Diya Bhikadiya">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Diya!;B.Tech+Computer+Engineering+Student;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hi%2C+I'm+Diya!;BE+Computer+Engineering+Student;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
   </a>
 </p>
 
