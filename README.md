@@ -10,7 +10,7 @@
 
 🎓 **3rd Year Bachelor of Engineering Computer Engineering Student**  
 💻 Passionate about Full-Stack Development, App Development & Modern Technologies  
-🚀 Learning and building projects using React, Node.js, Flutter, Python & Databases  
+🚀 Learning and building projects using Android, React, Node.js, Flutter, Python & Databases  
 
 
 ## 🧠 About Me
