@@ -8,18 +8,18 @@
 
 # 👋 Hi, I'm Diya
 
-!🎓 **3rd Year Bachelor of Engineering Computer Engineering Student**  
-!💻 Passionate about Full-Stack Development, App Development & Modern Technologies  
-!🚀 Learning and building projects using React, Node.js, Flutter, Python & Databases  
+🎓 **3rd Year Bachelor of Engineering Computer Engineering Student**  
+💻 Passionate about Full-Stack Development, App Development & Modern Technologies  
+🚀 Learning and building projects using React, Node.js, Flutter, Python & Databases  
 
 
 ## 🧠 About Me
 
-!🎓 Currently pursuing **B.Tech in Computer Engineering (2027 Expected)**
-!💡 Interested in **Software Development, UI/UX & Backend Systems**
-!🚀 Currently Learning: `Flutter`, `React`, `Node.js`, `MongoDB`
-!🔍 Exploring: `Open Source` and `Real-World Projects`
-!⚡ Love building practical and creative applications
+🎓 Currently pursuing **B.Tech in Computer Engineering (2027 Expected)**
+💡 Interested in **Software Development, UI/UX & Backend Systems**
+🚀 Currently Learning: `Flutter`, `React`, `Node.js`, `MongoDB`
+🔍 Exploring: `Open Source` and `Real-World Projects`
+⚡ Love building practical and creative applications
 
 
 ## 💻 Technical Skills
